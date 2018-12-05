@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DutchArt.Data", "DutchArt.Data\DutchArt.Data.csproj", "{67A48FEE-F047-41D3-B0EF-F5E46EBADAA1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DutchArt.UI", "DutchArt.UI\DutchArt.UI.csproj", "{BE17D38C-9543-4750-8DE9-A93BF3EA5329}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67A48FEE-F047-41D3-B0EF-F5E46EBADAA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67A48FEE-F047-41D3-B0EF-F5E46EBADAA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67A48FEE-F047-41D3-B0EF-F5E46EBADAA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67A48FEE-F047-41D3-B0EF-F5E46EBADAA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE17D38C-9543-4750-8DE9-A93BF3EA5329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE17D38C-9543-4750-8DE9-A93BF3EA5329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE17D38C-9543-4750-8DE9-A93BF3EA5329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE17D38C-9543-4750-8DE9-A93BF3EA5329}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECD6A80C-DDC4-4AFB-9537-CB134416D95F}
+	EndGlobalSection
+EndGlobal
